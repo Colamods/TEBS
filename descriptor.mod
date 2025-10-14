@@ -1,4 +1,4 @@
-version="1.14"
+version="1.0"
 tags={
 	"Alternative History"
         "Gameplay"
@@ -8,7 +8,7 @@ tags={
 	"Ideologies"
 }
 name="The Eternal Black Sun: The Earth's End"
-supported_version="1.14.10"
+supported_version="1.16.*"
 path="mod/TEBS"
 replace_path="history/states"
 replace_path="history/units"
